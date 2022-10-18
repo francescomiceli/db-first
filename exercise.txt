@@ -1,0 +1,13 @@
+                               TIPO
+
+ID =                           INTEGER - PRIMARY KEY - MEDIUMINT - UNIQUE - NOT NULL;
+MARCA =                        STRINGA - VARCHAR(30) - NOT NULL;
+MODELLO =                      STRINGA - VARCHAR(20) - NOT NULL
+CILINDRATA =                   DECIMAL - DECIMAL(1,4)- NOT NULL
+ANNO COSTRUZIONE =             -----   -   YEAR      - NOT NULL
+COLORE =                       STRINGA - VARCHAR(15) - NULL  
+EURO =                         DECIMAL - DECIMAL(6,2)- NOT NULL
+NUMERO PORTE =                 SMALLINT- 
+CARROZZERIA =                  STRINGA - VARCHAR(10) - NULL
+ALIMENTAZIONE =                STRINGA - VARCHAR (10)-
+KM =                           INTEGER - MEDIUMINT.  - NOT NULL
